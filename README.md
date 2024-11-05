@@ -7,14 +7,15 @@ currently we have:
 
 --
 
+# Key For Tabs + Chords:
+## Chord Key:
 
-Chord Key:
+"0" = open, not changed
+"-" = removed from guitar
 
-0 = open, not changed
-- = removed from guitar
-
-Tab Key:
+## Tab Key:
 
 Q,W,E,R,T,Y = respective note
 1,2,3,4,5,6 = chord shape
 letter+letter = play both notes at same time
+STRUM = strum that chord!
