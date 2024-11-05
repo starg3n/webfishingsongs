@@ -1,3 +1,5 @@
+![webfish](https://webfishing.wiki.gg/images/e/e6/Site-logo.png)
+
 # webfishing song tabs
 
 currently we have:
