@@ -25,8 +25,8 @@ Chord Shapes:
 Tab:
 (you need to know the timing of this song)
 
-1 QWRT 2 T 1 TRE 3 ERTYR 
-1 QWRT 2 T 1 TRE 3 ERTYR
+1 QWRT 2 T 1 TRE 3 ERTYTR 
+1 QWRT 2 T 1 TRE 3 ERTYTR
 4 QWE 5 ERE 4 EWQWE 5 ER 
 4 QWE 5 ERE 4 EWQWE 5 ER 
 1 QWRT 2 T 1 TRWQWRQ 2 T 1 T 2 TY 6 W+YE 7 ERT
