@@ -1,4 +1,4 @@
-![webfish]([https://webfishing.wiki.gg/images/e/e6/Site-logo.png](https://www.spriters-resource.com/resources/sheets/239/241992.png?updated=1729977503))
+![webfish](https://www.spriters-resource.com/resources/sheets/239/241992.png?updated=1729977503)
 
 # webfishing song tabs
 
