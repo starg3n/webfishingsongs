@@ -5,9 +5,9 @@ a project by appak
 
 ## Songs:
 
-- [c418 - wet hands](https://starg3n.github.io/webfishingsongs/C418%20-%20Wet%20Hands.txt)
-- [weezer - undone (the sweater song)](https://starg3n.github.io/webfishingsongs/Weezer%20-%20Undone%20(The%20Sweater%20Song).txt)
-- [toby fox - megalovania](https://starg3n.github.io/webfishingsongs/Toby%20Fox%20-%20MEGALOVANIA.txt)
+- [c418 - wet hands](https://starg3n.github.io/webfishingsongs/C418%20-%20Wet%20Hands.md)
+- [weezer - undone (the sweater song)](https://starg3n.github.io/webfishingsongs/Weezer%20-%20Undone%20(The%20Sweater%20Song).md)
+- [toby fox - megalovania](https://starg3n.github.io/webfishingsongs/Toby%20Fox%20-%20MEGALOVANIA.md)
 
 --
 
